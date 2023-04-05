@@ -1,0 +1,27 @@
+{
+  "name": "ht8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "eslint": "^8.37.0",
+    "eslint-plugin-react": "^7.32.2",
+    "prettier": "^2.8.7"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fluorex/HT_8.git"
+  },
+  "author": "Dmytro I",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fluorex/HT_8/issues"
+  },
+  "homepage": "https://github.com/Fluorex/HT_8#readme"
+}
